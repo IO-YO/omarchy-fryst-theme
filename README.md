@@ -34,7 +34,7 @@ Fryst will gradually extend beyond Omarchy to include **custom Stylus themes** f
 ## 🌬️ Installation (Omarchy)
 
 ```bash
-omarchy-theme-install https://github.com/yourname/omarchy-fryst-theme
+omarchy-theme-install https://github.com/IO-YO/omarchy-fryst-theme
 ````
 
 ---
