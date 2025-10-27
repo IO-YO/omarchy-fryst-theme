@@ -3,6 +3,10 @@
 Fryst is a dark, elegant, and calm theme for **Omarchy**, forged from the quiet strength of Nordic winters.  
 It’s inspired by the serenity of ice, the stillness of snow, and the clarity that emerges when the world turns cold and silent.
 
+<p align="center">
+  <img src="logo.png" alt="Fryst Logo">
+</p>
+
 
 ---
 
