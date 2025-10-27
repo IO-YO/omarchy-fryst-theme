@@ -1,36 +1,73 @@
-# Frost
+# ❄️ Fryst
 
-Frost is a simple, elegant, and dark theme for Omarchy inspired by the serene beauty of frost patterns on a winter morning. It's designed for those moments of deep focus, when clarity emerges from simplicity and all that's left is you and your code.
-
-<p align="center">
-  <img src="logo.png" alt="Frost Logo">
-</p>
-
-> In winter's hush, where crystals form,  
-> Against the dark, the cool lights warm.  
-> Each line of code, a crystal bright,  
-> In frost's domain, where thoughts take flight,  
-> And focused minds weather any storm.  
-
-## Screenshot
+Fryst is a dark, elegant, and calm theme for **Omarchy**, forged from the quiet strength of Nordic winters.  
+It’s inspired by the serenity of ice, the stillness of snow, and the clarity that emerges when the world turns cold and silent.
 
 <p align="center">
-  <img src="theme.png" alt="Frost Theme Screenshot">
+  <img src="logo.png" alt="Fryst Logo">
 </p>
 
-## Installation
+> Beneath the hush of endless white,  
+> Where frost and focus meet the night,  
+> Each line of code — a shard of hue,  
+> In Fryst’s domain of frozen blue.  
 
-### Omarchy
+---
 
-To install this theme, simply use the `omarchy-theme-install` command:
+## 🧊 About
+
+**Fryst** is a fork of [**Omarchy Frost Theme**](https://github.com/bjarneo/omarchy-frost-theme) by [**@bjarneo**](https://github.com/bjarneo),  
+with gratitude for the original inspiration and palette design.  
+
+This version continues the lineage of *Frost*, expanding the idea into a wider ecosystem —  
+bringing its clean, icy aesthetic to more of the web I live and create in.
+
+---
+
+## 🌨️ Scope
+
+Fryst will gradually extend beyond Omarchy to include **custom Stylus themes** for:
+
+1. [ChatGPT](https://chat.openai.com)  
+2. [GitHub](https://github.com)  
+3. [Notion](https://notion.so)
+
+*(Still on the TO-DO list — but coming soon, one snowflake at a time.)*
+
+---
+
+## 🌬️ Installation (Omarchy)
 
 ```bash
-omarchy-theme-install https://github.com/bjarneo/omarchy-frost-theme
-```
+omarchy-theme-install https://github.com/yourname/omarchy-fryst-theme
+````
 
+---
 
-## Neovim Theme
-See the `frost.nvim` folder in this repository for the Neovim theme.
+## 🧠 Neovim Theme
 
-## X.com
-[iamdothash](https://x.com/iamdothash)
+See the `fryst.nvim` folder for the Neovim color configuration.
+
+---
+
+## 🩵 Personal Note
+
+My favorite color has always been **frosty blue** — that in-between shade where cold meets calm.
+Even though I’m as color-blind as one can be (and can hardly tell purple from blue),
+I love the feeling this hue gives me: like a **white winter morning**, quiet and alive at once.
+
+---
+
+## 🌌 Credits
+
+* **Original Theme:** [Omarchy Frost Theme](https://github.com/bjarneo/omarchy-frost-theme)
+* **Author:** [@bjarneo](https://github.com/bjarneo)
+* **Fork & Expansion:** [@IO-YO](https://github.com/IO-YO)
+
+---
+
+<p align="center">
+  <img src="theme.png" alt="Fryst Theme Screenshot">
+</p>
+
+---
