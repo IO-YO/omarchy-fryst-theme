@@ -7,11 +7,6 @@ It’s inspired by the serenity of ice, the stillness of snow, and the clarity t
   <img src="logo.png" alt="Fryst Logo">
 </p>
 
-> Beneath the hush of endless white,  
-> Where frost and focus meet the night,  
-> Each line of code — a shard of hue,  
-> In Fryst’s domain of frozen blue.  
-
 ---
 
 ## 🧊 About
